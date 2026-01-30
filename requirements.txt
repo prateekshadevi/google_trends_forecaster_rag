@@ -1,0 +1,15 @@
+# --- API Clients & Web Scraping ---
+newsapi-python
+feedparser
+requests
+beautifulsoup4
+wikipedia-api
+pytrends
+
+# --- Data Processing ---
+pandas
+numpy
+python-dotenv
+
+# --- Development Utilities ---
+datetime
